@@ -177,12 +177,18 @@ PRODUCT_PACKAGES += \
 
 # Signal / WiFi Icons
 PRODUCT_PACKAGES += \
+	AcherusSubsSignalGOverlay \
+	AcherusSubsWifiGOverlay \
+	AcherusSubsSignalTOverlay \
+	AcherusSubsWifiTOverlay \
 	BarsSignalOverlay \
 	BarsWiFiOverlay \
 	DoraSignalOverlay \
 	DoraWiFiOverlay \
 	InsideSignalOverlay \
 	InsideWiFiOverlay \
+	LivSignalOverlay \
+	LivWifiOverlay \
 	RoundSignalOverlay \
 	RoundWiFiOverlay \
 	SneakySignalOverlay \
