@@ -63,6 +63,7 @@ PRODUCT_PACKAGES += \
     FontCoconOverlay \
     FontComfortaaOverlay \
     FontComicSansOverlay \
+    FontCookieRunOverlay \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
