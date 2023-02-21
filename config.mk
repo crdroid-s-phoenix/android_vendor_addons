@@ -187,17 +187,21 @@ PRODUCT_PACKAGES += \
 	DoraWiFiOverlay \
 	InsideSignalOverlay \
 	InsideWiFiOverlay \
+	IosSignalOverlay \
 	LivSignalOverlay \
 	LivWifiOverlay \
+	OdineeSignalOverlay \
 	RoundSignalOverlay \
 	RoundWiFiOverlay \
 	SneakySignalOverlay \
 	SneakyWiFiOverlay \
 	StrokeSignalOverlay \
 	StrokeWiFiOverlay \
+	WannaSignalOverlay \
 	WavySignalOverlay \
 	WavyWiFiOverlay \
 	WeedWiFiOverlay \
+	WindowsSignalOverlay \
 	XperiaSignalOverlay \
 	XperiaWiFiOverlay \
 	ZigZagSignalOverlay \
