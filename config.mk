@@ -218,11 +218,18 @@ PRODUCT_PACKAGES += \
 
 # Brightness slider styles
 PRODUCT_PACKAGES += \
-    BrightnessSliderFilledOverlay \
-    BrightnessSliderThinOverlay \
     BrightnessSliderAcunOverlay \
     BrightnessSliderBangOverlay \
-    BrightnessSliderGradientRoundedBarOverlay
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderGradientRoundedBarOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderThinOverlay \
+    BrightnessSliderTranslucentOverlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
