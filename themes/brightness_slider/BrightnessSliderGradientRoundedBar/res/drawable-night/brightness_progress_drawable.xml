@@ -9,17 +9,7 @@
         </shape>
     </item>
     <item android:gravity="fill_horizontal|center" android:id="@android:id/progress">
-        <clip android:gravity="left" android:clipOrientation="horizontal">
-            <selector>
-                <item>
-                    <shape android:shape="rectangle">
-                        <corners android:radius="28.0dip" />
-                        <size android:height="48.0dip" />
-                        <gradient android:startColor="@android:color/system_accent1_100" android:endColor="@android:color/system_accent3_100" android:angle="0.0" />
-                    </shape>
-                </item>
-            </selector>
-        </clip>
+        <com.android.systemui.util.RoundedCornerProgressDrawable android:drawable="@drawable/brightness_progress_full_drawable" />
     </item>
 </layer-list>
 

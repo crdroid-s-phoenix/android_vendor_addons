@@ -222,7 +222,7 @@ PRODUCT_PACKAGES += \
     BrightnessSliderThinOverlay \
     BrightnessSliderAcunOverlay \
     BrightnessSliderBangOverlay \
-    BrightnessSliderGradientOverlay
+    BrightnessSliderGradientRoundedBarOverlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
